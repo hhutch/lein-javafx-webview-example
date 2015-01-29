@@ -1,6 +1,8 @@
 # lein-javafx-webview-example
 
-Example Java + Webview built with Leiningen
+Examples using Java + Webview built with Leiningen
+
+Note: this build requires JDK 1.8 which has the required JavaFX and Webview support
 
 ## Compilation
 	lein javac
