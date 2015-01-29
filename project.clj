@@ -3,7 +3,7 @@
   :url "http://stackoverflow.com/a/23228558/495999"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  ;; :dependencies [[]]
+  :dependencies [[org.jfxtras/openjfx-monocle "1.8.0_20"]]
   :java-source-paths ["src/"]
   :javac-options ["-target" "1.8" "-source" "1.8"]
   :main lein_javafx_webview_example.WebViewLocalHtml
